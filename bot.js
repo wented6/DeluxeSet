@@ -15,7 +15,7 @@ const p5 = new D5.Client();
 
     console.log("oNNN1");
     p1.on('ready', () => {
-        meercy.user.setGame(`Deluxe`,'https://www.twitch.tv/MeeRcY')
+        client.user.setGame(`Deluxe`,'https://www.twitch.tv/MeeRcY')
     
     });
 
@@ -23,14 +23,14 @@ const p5 = new D5.Client();
 
     console.log("oNNN2");
     p2.on('ready', () => {
-        meercy.user.setGame(`Deluxe`,'https://www.twitch.tv/MeeRcY')
+        client.user.setGame(`Deluxe`,'https://www.twitch.tv/MeeRcY')
     
     });
 
 
       console.log("oNNN3");
     p3.on('ready', () => {
-        meercy.user.setGame(`Deluxe`,'https://www.twitch.tv/MeeRcY')
+        client.user.setGame(`Deluxe`,'https://www.twitch.tv/MeeRcY')
     
     });
 
@@ -38,7 +38,7 @@ const p5 = new D5.Client();
 
     console.log("oNNN4");
     p4.on('ready', () => {
-        meercy.user.setGame(`Deluxe`,'https://www.twitch.tv/MeeRcY')
+        client.user.setGame(`Deluxe`,'https://www.twitch.tv/MeeRcY')
     
     });
 
@@ -48,7 +48,7 @@ const p5 = new D5.Client();
 
     console.log("oNNN5");
     p5.on('ready', () => {
-        meercy.user.setGame(`Deluxe`,'https://www.twitch.tv/MeeRcY')
+        client.user.setGame(`Deluxe`,'https://www.twitch.tv/MeeRcY')
     
     });
 
